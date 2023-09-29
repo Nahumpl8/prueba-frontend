@@ -15,7 +15,7 @@ h1{
     text-shadow: 4px 4px 0 black;
     font-size: 8em;
 }
-@media screen and (max-width:500px){
+@media screen and (max-width: 500px){
     h1{
         text-shadow: 2px 2px 0 black;
         font-size: 3em;
